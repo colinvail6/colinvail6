@@ -1,5 +1,6 @@
 ## Hi there 👋 I am @colinvail6
 
+- 🙂 I'm new to GitHub
 - 🔭 I’m currently working on a MakeCode Arcade game
 - 🌱 I’m currently learning how to make games better
 - 👯 I’m looking to collaborate on a game
