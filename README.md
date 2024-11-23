@@ -1,4 +1,4 @@
-## Hi there 👋 I am Colin
+## Hi there 👋 I am Colin!
 
 - 🙂 I'm new to GitHub
 - 🔭 I’m currently working on a MakeCode Arcade game
